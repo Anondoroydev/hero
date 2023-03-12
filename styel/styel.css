@@ -89,7 +89,7 @@ nav img {
 }
 
 .box {
-    width: 174px height: 52px top: 16px left: 412px border-radius: 8px
+    width: 174px; height: 52px; top: 16px; left: 412px ;border-radius: 8px
 }
 
 .Images-section {
@@ -193,7 +193,7 @@ nav img {
     align-items: center;
     display: flex;
     /* border: 2px solid red; */
-    gap: 20px;git push -u origin 
+    gap: 20px;git push -u origin
 
 
 }
@@ -207,7 +207,7 @@ nav img {
 .last {
     width: 50%;
     padding-left: 50px;
-    margin: 0 50px; 
+    margin: 0 50px;
 }
 
 .last-s {
@@ -233,7 +233,7 @@ nav img {
     text-align: center;
 }
 .iconns{
-    display: flex; 
+    display: flex;
     justify-content: center;
     margin-top: 40px;
 }
@@ -251,7 +251,7 @@ nav img {
 .rel {
     text-align: center;
 }
- 
+
 @media screen and (max-width: 600px) {
     .header-scetion {
         flex-direction: column;
